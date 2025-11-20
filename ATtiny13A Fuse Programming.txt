@@ -1,0 +1,12 @@
+SELFPRGEN 	= [ ]
+DWEN 		= [ ]
+BODLEVEL 	= DISABLED
+RSTDISBL 	= [ ]
+SPIEN 		= [X]
+EESAVE 		= [ ]
+WDTON 		= [ ]
+CKDIV8 		= [ ]
+SUT_CKSEL 	= INTRCOSC_9MHZ6_14CK_64MS
+
+HIGH = 0xFF (valid)
+LOW = 0x7A (valid)
